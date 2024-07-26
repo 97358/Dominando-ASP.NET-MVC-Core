@@ -2,7 +2,7 @@
 
 ##  Visão geral de projetos focados nos fundamentos do ASP.NET MVC. ##
 
-📝 **Nota:** Abrangendo: introdução, controllers, models, views e razor, entity framework, formulários e uma aplicação funcional.
+📝 **Nota:** Dividinfo em camadas: app, business e data.
 
 🔧 **Versão**
 
