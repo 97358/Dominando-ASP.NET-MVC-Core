@@ -2,7 +2,7 @@
 
 ##  Visão geral de projetos focados nos fundamentos do ASP.NET MVC. ##
 
-📝 **Nota:** Dividinfo em camadas: app, business e data.
+📝 **Nota:** Dividindo em camadas: app, business e data.
 
 🔧 **Versão**
 
