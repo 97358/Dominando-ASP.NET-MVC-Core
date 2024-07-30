@@ -4,8 +4,6 @@
 
 📝 **Nota:** Dividindo em camadas: app, business e data.
 
-🔧 **Versão**
-
 ⚠️ **Atenção:** Destinado exclusivamente para fins de estudo.
 
 ##
